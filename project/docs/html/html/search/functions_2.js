@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['check_5fcollision',['check_collision',['../group___enemy.html#ga196cdc32bbc10cdca2ce0b7b6134477f',1,'check_collision(Player *myPlayer, Enemy *myEnemy):&#160;Enemy.c'],['../group___enemy.html#ga196cdc32bbc10cdca2ce0b7b6134477f',1,'check_collision(Player *myPlayer, Enemy *myEnemy):&#160;Enemy.c']]],
+  ['check_5fcollision_5fbox',['check_collision_box',['../group___boxes.html#ga12df25d74b42cc25559990343c29d447',1,'check_collision_box(Player *myPlayer, Box *b):&#160;Boxes.c'],['../group___boxes.html#ga12df25d74b42cc25559990343c29d447',1,'check_collision_box(Player *myPlayer, Box *b):&#160;Boxes.c']]],
+  ['check_5fcollision_5fdbox',['check_collision_dbox',['../group___boxes.html#gaa7dc1208d770957648312f1ab9d0c138',1,'check_collision_dbox(Player *myPlayer, DestructableBox *db):&#160;Boxes.c'],['../group___boxes.html#gaa7dc1208d770957648312f1ab9d0c138',1,'check_collision_dbox(Player *myPlayer, DestructableBox *db):&#160;Boxes.c']]],
+  ['check_5fcollision_5fplatform',['check_collision_platform',['../group___platform.html#ga78e969de98c7e1ccda9aa22fab032fa8',1,'check_collision_platform(Player *myPlayer, Platform *p):&#160;Platform.c'],['../group___platform.html#ga78e969de98c7e1ccda9aa22fab032fa8',1,'check_collision_platform(Player *myPlayer, Platform *p):&#160;Platform.c']]],
+  ['check_5fcollision_5fspikes',['check_collision_spikes',['../group___platform.html#gaa6a8b9a04a1a1f93bea5bfb3a140444a',1,'check_collision_spikes(Player *myPlayer, Spike *s):&#160;Spikes.c'],['../group___platform.html#gaa6a8b9a04a1a1f93bea5bfb3a140444a',1,'check_collision_spikes(Player *myPlayer, Spike *s):&#160;Spikes.c']]],
+  ['check_5fpressed_5fdbox',['check_pressed_dbox',['../group___boxes.html#gafa838139392c4fea758d0680c8f47e12',1,'check_pressed_dbox(int x, int y, int pressed, DestructableBox *db):&#160;Boxes.c'],['../group___boxes.html#gafa838139392c4fea758d0680c8f47e12',1,'check_pressed_dbox(int x, int y, int pressed, DestructableBox *db):&#160;Boxes.c']]],
+  ['clear_5fbuffer',['clear_buffer',['../_graphics_8c.html#afa847549e9dc6e4f49f651623bc456dc',1,'Graphics.c']]],
+  ['coin_5fpickup',['coin_pickup',['../group___coins.html#gac055dd93d3b36488e670110450b65a0d',1,'coin_pickup(Player *myPlayer, Coin *c):&#160;Coins.c'],['../group___coins.html#gac055dd93d3b36488e670110450b65a0d',1,'coin_pickup(Player *myPlayer, Coin *c):&#160;Coins.c']]]
+];

@@ -1,0 +1,6 @@
+<map id="update_mouse" name="update_mouse">
+<area shape="rect" id="node2" href="$group___mouse.html#ga8d3f3987b96a716cc9c3aa8e484ff1d7" title="Get mouse. " alt="" coords="181,5,260,32"/>
+<area shape="rect" id="node4" href="$group___graphics.html#ga85f07897fcef302cfd16a33cb690a70a" title="Get the video memory horizontal resolution. " alt="" coords="160,56,281,83"/>
+<area shape="rect" id="node5" href="$group___graphics.html#ga1eee563c2d26857ee2e35d7e8656e841" title="Get the video memory vertical resolution. " alt="" coords="160,107,281,133"/>
+<area shape="rect" id="node3" href="$group___mouse.html#gabd64fd476265e0fb0463cc3d82823701" title="Creates new mouse. " alt="" coords="329,5,413,32"/>
+</map>
